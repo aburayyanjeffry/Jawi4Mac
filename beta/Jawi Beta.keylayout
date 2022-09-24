@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2022-09-24 at 01:50 (MYT)-->
-<!--Last edited by Ukelele version 359 on 2022-09-24 at 22:00 (MYT)-->
+<!--Last edited by Ukelele version 359 on 2022-09-24 at 22:14 (MYT)-->
 <keyboard group="126" id="-13512" name="Jawi Beta" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -89,7 +89,7 @@
             <key code="46" output="ة"/>
             <key code="47" output="ز"/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=""/>
+            <key code="49" output=" "/>
             <key code="50" output=""/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
