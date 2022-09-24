@@ -19,5 +19,5 @@ sudo cp 'Jawi Beta.keylayout' '/Library/Keyboard Layouts/'
 sudo chown $(whoami) '/Library/Keyboard Layouts/Jawi Beta.keylayout'
 ```
 3. Logout dan login balik. Kemudian pilih keyboard `Jawi Beta` 
-![pilih](img/pilih.png)
+![pilih](img/pilih.jpg)
 
