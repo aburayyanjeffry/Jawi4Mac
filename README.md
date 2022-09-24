@@ -18,5 +18,6 @@ Amaran: Ini adalah papan kekunci percubaan. Boleh digunakan secara percuma tanpa
 sudo cp 'Jawi Beta.keylayout' '/Library/Keyboard Layouts/'
 sudo chown $(whoami) '/Library/Keyboard Layouts/Jawi Beta.keylayout'
 ```
-3. Logout dan pilih keyboard `Jawi Beta`
+3. Logout dan login balik. Kemudian pilih keyboard `Jawi Beta` 
+![pilih](img/pilih.png)
 
