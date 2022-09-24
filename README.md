@@ -11,7 +11,7 @@ Contoh penggunaan pada aplikasi Keynote
 Amaran: Ini adalah papan kekunci percubaan. Boleh digunakan secara percuma tanpa ada sebarang tanggungan. Segala kesulitan, renjatan elektrik, kerosakan komputer dan sebarang masalah adalah tanggungjawab sendiri. 
 
 ### Macam mana nak pasang?
-1. Muat turun [Jawi Beta.keylayout](beta/Jawi Beta.keylayout)
+1. Muat turun [Jawi Beta.keylayout](beta/Jawi%20Beta.keylayout)
 
 2. Salin ia ke `/Library/Keyboard Layouts/`
 ```
