@@ -1,9 +1,22 @@
 # Jawi4Mac
-A Jawi Keyboard for macOS
+Ini adalah papan kekunci Jawi untuk sistem operasi macOS. Ianya mengikut papan kekunci Jawi UKM seperti berikut:
 
-### How to install
+[papan kekunci](img/jawi-beta-key.jpg)
+
+Contoh penggunaan pada aplikasi Keynote
+
+[keynote](img/keynote.png)
+
+
+Amaran: Ini adalah papan kekunci percubaan. Boleh digunakan secara percuma tanpa ada sebarang tanggungan. Segala kesulitan, renjatan elektrik, kerosakan komputer dan sebarang masalah adalah tanggungjawab sendiri. 
+
+### Macam mana nak pasang?
+1. Muat turun [Jawi Beta.keylayout](beta/Jawi Beta.keylayout)
+
+2. Salin ia ke `/Library/Keyboard Layouts/`
 ```
 sudo cp 'Jawi Beta.keylayout' '/Library/Keyboard Layouts/'
 sudo chown $(whoami) '/Library/Keyboard Layouts/Jawi Beta.keylayout'
 ```
+3. Logout dan pilih keyboard `Jawi Beta`
 
