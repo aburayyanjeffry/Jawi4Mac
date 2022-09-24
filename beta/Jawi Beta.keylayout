@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2022-09-24 at 01:50 (MYT)-->
-<!--Last edited by Ukelele version 359 on 2022-09-24 at 02:00 (MYT)-->
+<!--Last edited by Ukelele version 359 on 2022-09-24 at 21:08 (MYT)-->
 <keyboard group="126" id="-13512" name="Jawi Beta" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -53,29 +53,29 @@
             <key code="10" output="ذ"/>
             <key code="11" output=""/>
             <key code="12" output="ض"/>
-            <key code="13" output=""/>
-            <key code="14" output=""/>
-            <key code="15" output=""/>
-            <key code="16" output=""/>
-            <key code="17" output=""/>
+            <key code="13" output="ص"/>
+            <key code="14" output="ث"/>
+            <key code="15" output="ق"/>
+            <key code="16" output="غ"/>
+            <key code="17" output="ف"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>
-            <key code="21" output=""/>
-            <key code="22" output=""/>
-            <key code="23" output=""/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output=""/>
-            <key code="25" output=""/>
-            <key code="26" output=""/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output=""/>
-            <key code="28" output=""/>
-            <key code="29" output=""/>
-            <key code="30" output=""/>
-            <key code="31" output=""/>
-            <key code="32" output=""/>
-            <key code="33" output=""/>
-            <key code="34" output=""/>
-            <key code="35" output=""/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
+            <key code="30" output="د"/>
+            <key code="31" output="خ"/>
+            <key code="32" output="ع"/>
+            <key code="33" output="ج"/>
+            <key code="34" output="ه"/>
+            <key code="35" output="ح"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output=""/>
             <key code="38" output=""/>
@@ -164,18 +164,18 @@
             <key code="15" output="ڤ"/>
             <key code="16" output=""/>
             <key code="17" output=""/>
-            <key code="18" output=""/>
-            <key code="19" output=""/>
-            <key code="20" output=""/>
-            <key code="21" output=""/>
-            <key code="22" output=""/>
-            <key code="23" output=""/>
+            <key code="18" output="١"/>
+            <key code="19" output="٢"/>
+            <key code="20" output="٣"/>
+            <key code="21" output="٤"/>
+            <key code="22" output="٦"/>
+            <key code="23" output="٥"/>
             <key code="24" output=""/>
-            <key code="25" output=""/>
-            <key code="26" output=""/>
+            <key code="25" output="٩"/>
+            <key code="26" output="٧"/>
             <key code="27" output=""/>
-            <key code="28" output=""/>
-            <key code="29" output=""/>
+            <key code="28" output="٨"/>
+            <key code="29" output="٠"/>
             <key code="30" output=""/>
             <key code="31" output=""/>
             <key code="32" output=""/>
